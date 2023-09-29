@@ -1,0 +1,6 @@
+
+DMA- Direct Access memory
+- Provee acceso directo a memoria entre dispositivos.
+- Comunicacion e/S con memoria o memoria con memoria.
+- Genera una interrupcion en CPU.
+- Se encuentra en cada uno de los hardware.

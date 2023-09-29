@@ -1,0 +1,5 @@
+
+- Registros: guarda los contadores de los procesos y datos que utilizan  frecuentemente.
+- Cache:contienen datos de procesos que se ejecutan frecuentemente.
+- RAM: donde se cargan ls procesos para pasar al estado de listo.
+- M. Flash: los datos son persistente en el tiempo.

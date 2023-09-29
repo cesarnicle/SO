@@ -1,0 +1,1 @@
+Ejecuta en secuencia, un proceso a la vez.

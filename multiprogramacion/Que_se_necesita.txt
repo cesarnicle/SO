@@ -1,0 +1,5 @@
+
+*Planificacion de procesos del CPU. Tiene que ser capaz de definir que proceso continua.
+*Manejo de memoria. Capaz de asignar la memoria necesaria para que los procesos se ejecuten.
+*Rutinas E/S provistas por el sistema. Control de acceso a los dispositivos para programarlos
+*Asignacion de dispositivos.
